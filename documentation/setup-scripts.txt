@@ -1,5 +1,5 @@
 requirements to run this project 
-
+fdS6ez4OA2042!gf9zZiw2st
 NodeJS, Python3
 
 install python/django dependencies: 
