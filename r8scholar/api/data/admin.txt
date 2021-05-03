@@ -1,0 +1,1 @@
+admin@brocku.ca|admin|pbkdf2_sha256$216000$SzsC8MnzV745$tSJPCijg2ckJUtnXJzrCbsxCHq6xLYqgLJA7hUhBIIY=|True|True
